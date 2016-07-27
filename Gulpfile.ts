@@ -960,6 +960,7 @@ const lintTargets = [
     "src/server/**/*.ts",
     "scripts/tslint/**/*.ts",
     "src/services/**/*.ts",
+    "tests/*.ts", // Note: does *not* descend recursively
 ];
 
 
