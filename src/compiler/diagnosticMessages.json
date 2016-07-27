@@ -2788,10 +2788,10 @@
         "category": "Error",
         "code": 6129
     },
-    "Resolving real path for '{0}', result '{1}'": {
-        "category": "Message",
-        "code": 6130
-    },
+    //"Resolving real path for '{0}', result '{1}'": {
+    //    "category": "Message",
+    //    "code": 6130
+    //},
     "Cannot compile modules using option '{0}' unless the '--module' flag is 'amd' or 'system'.": {
         "category": "Error",
         "code": 6131

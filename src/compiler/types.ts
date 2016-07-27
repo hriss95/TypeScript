@@ -2875,7 +2875,7 @@ namespace ts {
         readFile(fileName: string): string;
         trace?(s: string): void;
         directoryExists?(directoryName: string): boolean;
-        realpath?(path: string): string;
+        //realpath?(path: string): string;
         getCurrentDirectory?(): string;
     }
 
